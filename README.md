@@ -15,4 +15,4 @@ Rahul Shah <rahul.theostrich.shah@gmail.com>
 
 Description
 -----------
-This project is an exploration of D3. 
+This project is an exploration of D3. Let's see where this takes us.
